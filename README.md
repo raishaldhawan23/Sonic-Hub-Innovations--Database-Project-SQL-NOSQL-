@@ -16,11 +16,10 @@ This project focuses on developing a robust database system for Sonic Hub Studio
 - Hypothesis Testing: Validate the relationship between audience engagement metrics and revenue through regression analysis, helping Sonic Hub make data-driven decisions.
 
 ## Getting Started
-To run this project, ensure that both SQL Server and MongoDB are set up. Required Python libraries include pandas, matplotlib, and seaborn for data analysis and visualization. You can install these via:
+To run this project, ensure that both SQL Server and MongoDB are set up. Python libraries that are required include Pandas, Numpy, Matplotlib, and Pymongo for data analysis and visualization. You can install these via:
 
 <pre>
-  bash
-  pip install package
+  pip install pandas Numpy Pymongo Matplotlib
 </pre>
 
 This system offers Sonic Hub Studios an innovative solution for managing its data, supporting strategic decisions and enhancing client satisfaction through personalized music experiences.
